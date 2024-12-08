@@ -29,7 +29,7 @@ The repository is organized by difficulty level, and within each difficulty leve
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/geekforgeeks-solutions.git
+    git clone https://github.com/PriyabrataMo/geekforgeeks-solutions
     ```
 2. Navigate to the desired topic and problem directory to view the solution.
 
