@@ -33,16 +33,8 @@ The repository is organized by difficulty level, and within each difficulty leve
     ```
 2. Navigate to the desired topic and problem directory to view the solution.
 
-## Contributions
-
-Feel free to fork this repository and submit pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact me at your.email@example.com.
+If you have any questions or suggestions, please open an issue or contact me at priyabrata8558@gmail.com.
 
 Happy coding!
